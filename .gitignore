@@ -1,0 +1,46 @@
+# Unity-generated files
+
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+
+# Temporary project files
+
+.utmp/
+.vs/
+*.csproj
+*.sln
+*.slnx
+*.user
+*.suo
+*.tmp
+
+# IDE and operating-system files
+.vscode/
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+.DS_Store
+Thumbs.db
+
+# Build artifacts and logs
+
+*.log
+*.stackdump
+
+# Secrets
+
+.env
+.env.*
+!.env.example
+
+# Local credentials
+
+*.pem
+*.key
+secrets/
